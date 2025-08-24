@@ -1,0 +1,24 @@
+.conteneur{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+p{
+    text-align: center;
+}
+.texte{
+    max-width: 50%;
+    text-align: right;
+}
+section{
+    background-color: rgb(246, 240, 233);
+}
+figcaption{
+    text-align: center;
+}
+ol{
+    list-style: circle;
+}
+li{
+    text-align: center;
+}
